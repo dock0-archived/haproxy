@@ -1,0 +1,4 @@
+#!/bin/sh
+
+exec /opt/haproxy/bin 2>&1
+
