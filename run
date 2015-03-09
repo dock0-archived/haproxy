@@ -1,4 +1,4 @@
 #!/bin/sh
 
-exec /opt/haproxy/bin 2>&1
+exec /usr/bin/haproxy -f /etc/haproxy/haproxy.cfg 2>&1
 
