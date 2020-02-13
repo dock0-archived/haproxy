@@ -1,3 +1,5 @@
+**Deprecation Notice:** I've stopped using this in favor of SaaS loadbalancing.
+
 dock0/haproxy
 =======
 
